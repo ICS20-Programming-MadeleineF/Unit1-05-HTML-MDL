@@ -1,1 +1,1 @@
-[![GitHub's Super Linter](https://github.com/MadeleineForgeron/Unit1-05-HTML-MDL/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/MadeleineForgeron/Unit1-05-HTML-MDL/actions)
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-MadeleineF/Unit1-05-HTML-MDL/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-MadeleineF/Unit1-05-HTML-MDL/actions)
